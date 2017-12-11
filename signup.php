@@ -85,7 +85,7 @@ input[type=radio]{
 				<input type="password" name="confpass" class="form-control" id="cshow" placeholder="confirm Password ..." required=""><span class="input-group-addon sh" id="pchange" onclick=""><i class="glyphicon glyphicon-eye-open"></i></span></div>	<br>		
 			
 				<div class="col-sm-10 col-sm-offset-1 input-group "><span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
-				<input type="number" id="mob" name="mob" class="form-control" placeholder="Enter mobile no ..." required=""></div>	<br>		
+				<input type="text" id="mob" name="mob" class="form-control" placeholder="Enter mobile no ..." required=""></div>	<br>		
 				<div class="" align="center">			
 				Gender:
 				<label class="radio-inline"><input type="radio" name="gender" value="male" required="">Male</label>
